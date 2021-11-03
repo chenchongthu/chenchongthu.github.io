@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). I was a visiting student from April, 2019 to September, 2019 in [The Web Intelligent Systems and Economics (WISE) Lab at Rutgers](http://wise.cs.rutgers.edu), advised by Prof. [Yongfeng Zhang](http://yongfeng.me).
+I am now a final year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). I was a visiting student from April, 2019 to September, 2019 in [The Web Intelligent Systems and Economics (WISE) Lab at Rutgers](http://wise.cs.rutgers.edu), advised by Prof. [Yongfeng Zhang](http://yongfeng.me).
 
 My research interests are deep learning, user modeling, recommendation and etc.
 
@@ -21,6 +21,7 @@ Educations
 
 Honors and Awards
 ======
+* *2021.* **Yang Huiyan Scholarship**
 * *2020.* **Baidu Scholarship**, 10 students in the world
 * *2020.* **'84' Future Innovation Scholarship**
 * *2020.* **Zhong Shimo Scholarship**, the highest award in the Department of CST,Tsinghua University
