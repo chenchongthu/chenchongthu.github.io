@@ -21,6 +21,7 @@ Educations
 
 Honors and Awards
 ======
+* *2021.* **Jiang Nanxiang Scholarship**
 * *2021.* **Yang Huiyan Scholarship**
 * *2020.* **Baidu Scholarship**, 10 students in the world
 * *2020.* **'84' Future Innovation Scholarship**
@@ -70,6 +71,7 @@ Publications
 
 Experiences
 ======
+* *Jun. 2021 - .* Internship, Data Analytics and Intelligence Lab, Alibaba, China.
 * *Apr. 2019 - Sep. 2019.* Visiting student, Rutgers University, The United State.
 * *Feb. 2019 - Apr. 2019.* Internship, WeChat Group, Tencent Beijing, China.
 
