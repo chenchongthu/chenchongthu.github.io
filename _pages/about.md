@@ -40,7 +40,7 @@ Publications
 ======
 
 * ***Chong Chen***, Min Zhang, Fei Sun and Bolin Ding. **Recommendation Unlearning.** The Web Conference 2022. **(WWW 2021)**.[Preprint Version](https://arxiv.org/pdf/2201.06820.pdf) 
-* [Code](https://github.com/chenchongthu/Recommendation-Unlearning)
+[Code](https://github.com/chenchongthu/Recommendation-Unlearning)
 * Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, ***Chong Chen*** and Yongfeng Zhang. **Efficient Knowledge Graph Embedding without Negative Sampling.** The Web Conference 2021 **(WWW 2021)**. [Preprint Version](http://yongfeng.me/attach/liz-www2021.pdf) 
 * Chenyang Wang, Weizhi Ma, Min Zhang, ***Chong Chen***, Yiqun Liu and Shaoping Ma. **Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 39, No. 2, Article 16)**. 
 [Preprint Version](https://chenchongthu.github.io/files/TOIS-KDA-wcy.pdf) 
