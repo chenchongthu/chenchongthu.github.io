@@ -21,6 +21,7 @@ Educations
 
 Honors and Awards
 ======
+* *2021.* **Tsinghua Special Scholarship Nomination**
 * *2021.* **Jiang Nanxiang Scholarship**
 * *2021.* **Yang Huiyan Scholarship**
 * *2020.* **Baidu Scholarship**, 10 students in the world
@@ -38,7 +39,9 @@ Honors and Awards
 Publications
 ======
 
-* Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, ***Chong Chen*** and Yongfeng Zhang. **Efficient Knowledge Graph Embedding without Negative Sampling.** The Web Conference 2021 **(WWW 2021)**. To appear.
+* ***Chong Chen***, Min Zhang, Fei Sun and Bolin Ding. **Recommendation Unlearning.** The Web Conference 2022. **(WWW 2021)**.[Preprint Version](https://arxiv.org/pdf/2201.06820.pdf) 
+* [Code](https://github.com/chenchongthu/Recommendation-Unlearning)
+* Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, ***Chong Chen*** and Yongfeng Zhang. **Efficient Knowledge Graph Embedding without Negative Sampling.** The Web Conference 2021 **(WWW 2021)**. [Preprint Version](http://yongfeng.me/attach/liz-www2021.pdf) 
 * Chenyang Wang, Weizhi Ma, Min Zhang, ***Chong Chen***, Yiqun Liu and Shaoping Ma. **Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 39, No. 2, Article 16)**. 
 [Preprint Version](https://chenchongthu.github.io/files/TOIS-KDA-wcy.pdf) 
 [Code](https://github.com/THUwangcy/ReChorus)
@@ -71,7 +74,7 @@ Publications
 
 Experiences
 ======
-* *Jun. 2021 - .* Internship, Data Analytics and Intelligence Lab, Alibaba, China.
+* *Jun. 2021 - Feb. 2022.* Internship, Data Analytics and Intelligence Lab, Alibaba, China.
 * *Apr. 2019 - Sep. 2019.* Visiting student, Rutgers University, The United State.
 * *Feb. 2019 - Apr. 2019.* Internship, WeChat Group, Tencent Beijing, China.
 
