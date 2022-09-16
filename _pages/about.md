@@ -21,6 +21,7 @@ Educations
 
 Honors and Awards
 ======
+* *2022.* **WAIC YunFan Award, Rising Star**
 * *2021.* **Tsinghua Special Scholarship Nomination**
 * *2021.* **Jiang Nanxiang Scholarship**
 * *2021.* **Yang Huiyan Scholarship**
