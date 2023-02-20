@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a senior researcher at Huawei Inc. Before I joined Huawei, I obtained my B.E. and Ph.D. degrees from [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). I was a visiting student from April, 2019 to September, 2019 in [The Web Intelligent Systems and Economics (WISE) Lab at Rutgers](http://wise.cs.rutgers.edu), advised by Prof. [Yongfeng Zhang](http://yongfeng.me).
 
-My research interests are deep learning, natural laanguage processing, user modeling, recommendation and etc.
+My research interests are deep learning, natural language processing, user modeling, recommendation and etc.
 
 
 Educations
