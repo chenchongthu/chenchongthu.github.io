@@ -40,7 +40,7 @@ Honors and Awards
 
 PhD thesis
 ======
-* **高效神经网络推荐理论与方法研究 （Efficient Neural Recommendation: Theories and Methods）**
+* **高效神经网络推荐理论与方法研究 （Efficient Neural Recommendation: Theories and Methods）** [Thesis](https://chenchongthu.github.io/files/博士论文-陈冲.pdf) 
 
 Publications
 ======
