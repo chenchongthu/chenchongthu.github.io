@@ -20,6 +20,8 @@ Educations
 
 Honors and Awards
 ======
+* *2023.* **CAAI Outstanding Doctoral Dissertation Award Nomination**
+* *2022.* **CAIL 2022, 1st place of Legal Case Retrieval track**
 * *2022.* **WAIC YunFan Award, Rising Star**
 * *2021.* **Tsinghua Special Scholarship Nomination**
 * *2021.* **Jiang Nanxiang Scholarship**
