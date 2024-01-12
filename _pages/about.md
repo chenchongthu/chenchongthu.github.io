@@ -15,7 +15,7 @@ My research interests are deep learning, natural language processing, user model
 
 Educations
 ======
-* *Aug. 2017 - now.* Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China
+* *Aug. 2017 - 2022.* Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China
 * *Aug. 2013 - Jul. 2017* B.E., Department of Computer Science and Technology, Tsinghua University, China
 
 Honors and Awards
@@ -46,9 +46,11 @@ PhD thesis
 
 Publications
 ======
-
-* ***Chong Chen***, Min Zhang, Fei Sun and Bolin Ding. **Recommendation Unlearning.** The Web Conference 2022. **(WWW 2022)**.[Preprint Version](https://arxiv.org/pdf/2201.06820.pdf) 
-[Code](https://github.com/chenchongthu/Recommendation-Unlearning)
+* Haitao Li, Qingyao Ai, Jia Chen, Qian Dong, Yueyue Wu, Yiqun Liu, **Chong Chen**, Qi Tian **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval** **(SIGIR 2023)**.[Preprint Version](https://arxiv.org/abs/2304.11370) 
+* Kun Zhang, ***Chong Chen***, Yuanzhuo Wang, Qi Tian, Long Bai. **Cfgl-lcr: A counterfactual graph learning framework for legal case retrieval** Proceedings of the 29th ACM SIGKDD Conference. **(KDD 2023)** [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3580305.3599273) 
+* Chenyang Wang, Weizhi Ma, ***Chong Chen***, Min Zhang, Yiqun Liu, Shaoping Ma. **Sequential recommendation with multiple contrast signals** ACM Transactions on Information Systems. **(TOIS Vol. 41. No. 1, Article 11)**.  [Preprint Version](https://dl.acm.org/doi/full/10.1145/3522673) 
+* Shengjie Ma, ***Chong Chen***, Jiaxin Mao, Qi Tian, Xuhui Jiang. **Session Search with Pre-trained Graph Classification Model.** The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2023)**.[Preprint Version](https://gsai.ruc.edu.cn/uploads/20230504/59d2d02549901a4a352c37f539a2cbfb.pdf) 
+* ***Chong Chen***, Min Zhang, Fei Sun and Bolin Ding. **Recommendation Unlearning.** The Web Conference 2022. **(WWW 2022)**.[Preprint Version](https://arxiv.org/pdf/2201.06820.pdf)  [Code](https://github.com/chenchongthu/Recommendation-Unlearning)
 * Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, ***Chong Chen*** and Yongfeng Zhang. **Efficient Knowledge Graph Embedding without Negative Sampling.** The Web Conference 2021 **(WWW 2021)**. [Preprint Version](http://yongfeng.me/attach/liz-www2021.pdf) 
 * Chenyang Wang, Weizhi Ma, Min Zhang, ***Chong Chen***, Yiqun Liu and Shaoping Ma. **Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 39, No. 2, Article 16)**. 
 [Preprint Version](https://chenchongthu.github.io/files/TOIS-KDA-wcy.pdf) 
