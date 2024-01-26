@@ -20,6 +20,7 @@ Educations
 
 Honors and Awards
 ======
+* *2023.* **CAIL 2023, 1st place of Legal Case Retrieval track and Conversational Legal Case Retrieval track**
 * *2023.* **CAAI Outstanding Doctoral Dissertation Award Nomination**
 * *2022.* **CAIL 2022, 1st place of Legal Case Retrieval track**
 * *2022.* **WAIC YunFan Award, Rising Star**
