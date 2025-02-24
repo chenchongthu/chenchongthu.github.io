@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a senior researcher at Huawei Inc. Before I joined Huawei, I obtained my B.E. and Ph.D. degrees from [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). I was a visiting student from April, 2019 to September, 2019 in [The Web Intelligent Systems and Economics (WISE) Lab at Rutgers](http://wise.cs.rutgers.edu), advised by Prof. [Yongfeng Zhang](http://yongfeng.me).
 
-My research interests are deep learning, natural language processing, user modeling, recommendation and etc.
+My research interests are mainly in LLM application methods, such as Data-centric LLM, RAG, Agent, NL2SQL, Search, Recommendation and etc.
 
 
 Educations
@@ -45,11 +45,13 @@ PhD thesis
 ======
 * **高效神经网络推荐理论与方法研究 （Efficient Neural Recommendation: Theories and Methods）** [Thesis](https://chenchongthu.github.io/files/博士论文-陈冲.pdf) 
 
-Publications
+Selected Publications
 ======
-* Haitao Li, Qingyao Ai, Jia Chen, Qian Dong, Yueyue Wu, Yiqun Liu, **Chong Chen**, Qi Tian **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval** **(SIGIR 2023)**.[Preprint Version](https://arxiv.org/abs/2304.11370) 
-* Kun Zhang, ***Chong Chen***, Yuanzhuo Wang, Qi Tian, Long Bai. **Cfgl-lcr: A counterfactual graph learning framework for legal case retrieval** Proceedings of the 29th ACM SIGKDD Conference. **(KDD 2023)** [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3580305.3599273) 
-* Chenyang Wang, Weizhi Ma, ***Chong Chen***, Min Zhang, Yiqun Liu, Shaoping Ma. **Sequential recommendation with multiple contrast signals** ACM Transactions on Information Systems. **(TOIS Vol. 41. No. 1, Article 11)**.  [Preprint Version](https://dl.acm.org/doi/full/10.1145/3522673) 
+* Qinhan Yu, Zhiyou Xiao, Binghui Li, Zhengren Wang, ***Chong Chen***, Wentao Zhang. **MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**. **(Corresponding author, arxiv)** [Preprint Version](https://arxiv.org/pdf/2502.04176) 
+* Xiaohan Yu, Zhihan Yang, ***Chong Chen***. **Unveiling the Potential of Multimodal Retrieval Augmented Generation with Planning**. **(Corresponding author, arxiv)** [Preprint Version](https://arxiv.org/pdf/2501.15470)
+* Xiaohan Yu, Li Zhang, ***Chong Chen***. **Explainable CTR Prediction via LLM Reasoning** The 18th ACM International Conference on Web Search and Data Mining. **(Corresponding author, WSDM2025)** [Preprint Version](https://arxiv.org/pdf/2412.02588)
+* Xinhang Li, ***Chong Chen***, Xiangyu Zhao, Yong Zhang, Chunxiao Xing. **E4srec: An elegant effective efficient extensible solution of large language models for sequential recommendation**.  **(Corresponding author, arxiv)** [Preprint Version](https://arxiv.org/pdf/2312.02443) 
+* Kun Zhang, ***Chong Chen***, Yuanzhuo Wang, Qi Tian, Long Bai. **Cfgl-lcr: A counterfactual graph learning framework for legal case retrieval** Proceedings of the 29th ACM SIGKDD Conference. **(Corresponding author, KDD 2023)** [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3580305.3599273) 
 * Shengjie Ma, ***Chong Chen***, Jiaxin Mao, Qi Tian, Xuhui Jiang. **Session Search with Pre-trained Graph Classification Model.** The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2023)**.[Preprint Version](https://gsai.ruc.edu.cn/uploads/20230504/59d2d02549901a4a352c37f539a2cbfb.pdf) 
 * ***Chong Chen***, Min Zhang, Fei Sun and Bolin Ding. **Recommendation Unlearning.** The Web Conference 2022. **(WWW 2022)**.[Preprint Version](https://arxiv.org/pdf/2201.06820.pdf)  [Code](https://github.com/chenchongthu/Recommendation-Unlearning)
 * Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, ***Chong Chen*** and Yongfeng Zhang. **Efficient Knowledge Graph Embedding without Negative Sampling.** The Web Conference 2021 **(WWW 2021)**. [Preprint Version](http://yongfeng.me/attach/liz-www2021.pdf) 
